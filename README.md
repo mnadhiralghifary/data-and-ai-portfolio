@@ -4,7 +4,7 @@ This repository showcases selected projects in **data analytics, machine learnin
 
 ---
 
-## 🔍 Key Focus Areas
+## 💠 Key Focus Areas
 - Predictive Modeling & Machine Learning  
 - Industrial Process Optimization  
 - Sensor Data Analytics (Soft Sensor)  
@@ -14,7 +14,7 @@ This repository showcases selected projects in **data analytics, machine learnin
 
 ## 📂 Projects
 
-### 🧠 Human Activity Detection (Soft Sensor)
+### 1. Human Activity Detection (Soft Sensor)
 **Description:**  
 Developed a machine learning-based soft sensor to classify human activities using gyroscope and accelerometer data from mobile devices.  
 
@@ -27,7 +27,7 @@ Developed a machine learning-based soft sensor to classify human activities usin
 
 ---
 
-### 🔥 Fire Extinguishing Status Prediction
+### 2. Fire Extinguishing Status Prediction
 **Description:**  
 Built a predictive model to determine fire extinguishing status in buildings using acoustic signal data.  
 
@@ -40,7 +40,7 @@ Built a predictive model to determine fire extinguishing status in buildings usi
 
 ---
 
-### 🖼️ Image Classification (TensorFlow)
+### 3. Image Classification (TensorFlow)
 **Description:**  
 Implemented a deep learning model for image classification using TensorFlow.  
 
@@ -53,7 +53,7 @@ Implemented a deep learning model for image classification using TensorFlow.
 
 ---
 
-### ⛏️ Mining Process Quality Prediction
+### 4. Mining Process Quality Prediction
 **Description:**  
 Developed a machine learning model to predict process quality in mining operations.  
 
@@ -66,7 +66,7 @@ Developed a machine learning model to predict process quality in mining operatio
 
 ---
 
-### 🌡️ Mill Outlet Temperature (Soft Sensor)
+### 5. Mill Outlet Temperature (Soft Sensor)
 **Description:**  
 Built a soft sensor model to estimate mill outlet temperature in power plant operations.  
 
@@ -79,7 +79,7 @@ Built a soft sensor model to estimate mill outlet temperature in power plant ope
 
 ---
 
-## 🚀 Tools & Technologies
+## 💠 Tools & Technologies
 - Python (Pandas, Scikit-learn, TensorFlow)  
 - SQL  
 - Data Visualization (Power BI, Looker Studio)  
@@ -87,11 +87,11 @@ Built a soft sensor model to estimate mill outlet temperature in power plant ope
 
 ---
 
-## 🎯 Objective
+## 💠 Objective
 To leverage data and AI-driven solutions in solving real-world industrial and operational challenges, particularly in energy, manufacturing, and smart systems.
 
 ---
 
-## 📫 Contact
+## ✉️ Contact
 - Email: mnadhiralghifary@gmail.com  
 - LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/mnadhiralghifary/)
