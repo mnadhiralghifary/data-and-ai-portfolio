@@ -1,4 +1,4 @@
-# AI & Data Portfolio – M. Nadhir Al Ghifary
+# AI & Data Portfolio by M. Nadhir Al Ghifary
 
 This repository showcases selected projects in **data analytics, machine learning, and industrial applications**, focusing on transforming data into actionable insights and improving operational performance.
 
