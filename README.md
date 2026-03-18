@@ -94,4 +94,4 @@ To leverage data and AI-driven solutions in solving real-world industrial and op
 
 ## 📫 Contact
 - Email: mnadhiralghifary@gmail.com  
-- LinkedIn: (add your link here)
+- LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/mnadhiralghifary/)
